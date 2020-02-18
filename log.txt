@@ -1,0 +1,5 @@
+f2ef5aedb00d16e7a6307564c6877330c79e718c (Junny-cloud 2020-02-18 12:17:56 +0000 1) . Steak tartare
+f2ef5aedb00d16e7a6307564c6877330c79e718c (Junny-cloud 2020-02-18 12:17:56 +0000 2) . Salade norvégienne
+12ed98317b37e346c25c1e6303c270ca835cf3c0 (Junny-cloud 2020-02-18 12:21:09 +0000 3) .File de dorade 
+f2ef5aedb00d16e7a6307564c6877330c79e718c (Junny-cloud 2020-02-18 12:17:56 +0000 4) . Bar à la citronnelle
+12ed98317b37e346c25c1e6303c270ca835cf3c0 (Junny-cloud 2020-02-18 12:21:09 +0000 5) . NAN 3.20

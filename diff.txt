@@ -1,0 +1,17 @@
+commit 12ed98317b37e346c25c1e6303c270ca835cf3c0
+Author: Junny-cloud <diddyhs0@gmail.com>
+Date:   Tue Feb 18 12:21:09 2020 +0000
+
+    modifier fichier menu
+
+diff --git a/menu.txt b/menu.txt
+index ceefe0d..ab2458b 100644
+--- a/menu.txt
++++ b/menu.txt
+@@ -1,4 +1,5 @@
+ . Steak tartare
+ . Salade norvégienne
+-. File de dorade
++.File de dorade 
+ . Bar à la citronnelle
++. NAN 3.20
